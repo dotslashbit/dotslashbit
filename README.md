@@ -1,5 +1,11 @@
-### Hi there 👋, I'm Sahil
+# 👋 Hi friends! I'm Sahil.
 
+I'm a MTech CS Student @IIT Kharagpur and I write articles @Neuronize(https://neuronize.dev/') and @Computize(https://computize.dev/'). 
+
+
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
 <!--
 **dotslashbit/dotslashbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
