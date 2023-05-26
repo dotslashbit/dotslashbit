@@ -4,8 +4,8 @@ I'm a MTech CS Student @IIT Kharagpur and I write articles @Neuronize(https://ne
 
 
 ### 📙 Blog Posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 <!--
 **dotslashbit/dotslashbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
