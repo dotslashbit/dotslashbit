@@ -1,16 +1,20 @@
-name: Waka Readme
-
+name: Hashnode Blog Posts
 on:
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    # Runs every 6 hours of the day
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  update-readme-with-blog:
+    name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          comment_tag_name: "BLOGPOSTS"
+          feed_list: "<link-to-your-rss>"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
+          commit_message: "recent posts section updated"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
