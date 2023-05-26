@@ -5,7 +5,11 @@ I'm a MTech CS Student @IIT Kharagpur and I write articles @Neuronize(https://ne
 
 ### 📙 Blog Posts
 <!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+ - 🌮 [Mastering Python Function Arguments: A Comprehensive Guide](https://neuronize.dev/mastering-python-function-arguments-a-comprehensive-guide)
+ - 🌮 [Python Variables Explained: Memory, Mutability, and More](https://neuronize.dev/python-variables-explained-memory-mutability-and-more)
+ - 🚀 [Quick Python Primer: Master the Basics in 20 Minutes](https://neuronize.dev/quick-python-primer-master-the-basics-in-20-minutes)
+ - 🚀 [Beginner&#39;s Guide to Python: A Comprehensive Overview](https://neuronize.dev/beginners-guide-to-python-a-comprehensive-overview)
+ - 🚀 [Zomato EDA: Insights into Indian Food Industry Trends](https://neuronize.dev/zomato-eda-insights-into-indian-food-industry-trends)<!-- BLOGPOSTS:END -->
 
 <!--
 **dotslashbit/dotslashbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
