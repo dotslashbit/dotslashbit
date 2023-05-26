@@ -1,8 +1,8 @@
 name: Hashnode Blog Posts
 on:
   schedule:
-    # Runs every 7 days
-    - cron: '0 0 * * 0'
+    # Runs every 6 hours of the day
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,12 +15,6 @@ jobs:
         with:
           comment_tag_name: "BLOGPOSTS"
           feed_list: "https://neuronize.dev/rss.xml"
-          template: |
-            $newline <img src="$cover_image" alt="Cover Image" width="200" height="200" align="left">
-
-            ## [$title]($url)
-
-            $description
-
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url)"
           commit_message: "recent posts section updated"
           gh_token: ${{ secrets.GH_TOKEN }}
