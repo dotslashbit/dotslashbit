@@ -11,11 +11,11 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ### 📙 Articles
 <!-- BLOGPOSTS:START -->
- - 🌮 [Git and Github : In-Depth Guide](https://neuronize.dev/git-github-in-depth-guide)
- - 🌮 [Python Variables Explained](https://neuronize.dev/python-variables-explained-memory-mutability-and-more)
- - 🚀 [Mastering Python Function Arguments](https://neuronize.dev/mastering-python-function-arguments-a-comprehensive-guide)
- - 🚀 [Quick 20 Minutes Python Primer](https://neuronize.dev/quick-python-primer-master-the-basics-in-20-minutes)
- - 🚀 [Matplotlib 101](https://neuronize.dev/matplotlib-101-learn-matplotlib-in-10-minutes)<!-- BLOGPOSTS:END -->
+ - 🌮 [A Beginner&#39;s Guide to Statistics in Machine Learning](https://neuronize.dev/a-beginners-guide-to-statistics-in-machine-learning)
+ - 🌮 [Probability for machine learning](https://neuronize.dev/probability-for-machine-learning)
+ - 🚀 [Learn Linear Algebra For Machine Learning with Python](https://neuronize.dev/learn-linear-algebra-for-machine-learning-with-python)
+ - 🚀 [Learn Handling Missing Data in 10 Minutes](https://neuronize.dev/learn-handling-missing-data-in-10-minutes)
+ - 🚀 [Linear Regression in Machine Learning: A Comprehensive Guide](https://neuronize.dev/linear-regression-in-machine-learning-a-comprehensive-guide)<!-- BLOGPOSTS:END -->
 
 
 ## 🌱 Currently Exploring
