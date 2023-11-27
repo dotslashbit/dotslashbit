@@ -1,15 +1,45 @@
-# 👋 Hi friends! I'm Sahil.
+# Hi, I'm Sahi! 👋
 
-I'm a MTech CS Student @IIT Kharagpur and I write articles @Neuronize(https://neuronize.dev/') and @Computize(https://computize.dev/'). 
+I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
+## 🚀 About Me
 
-### 📙 Blog Posts
+- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 📝 I write in-depth, long-form articles on my website [neuronize.dev](https://neuronize.dev), accumulating over 20k views within just 2 months.
+- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+
+### 📙 Articles
 <!-- BLOGPOSTS:START -->
- - 🌮 [A Beginner&#39;s Guide to Statistics in Machine Learning](https://neuronize.dev/a-beginners-guide-to-statistics-in-machine-learning)
- - 🌮 [Probability for machine learning](https://neuronize.dev/probability-for-machine-learning)
- - 🚀 [Learn Linear Algebra For Machine Learning with Python](https://neuronize.dev/learn-linear-algebra-for-machine-learning-with-python)
- - 🚀 [Learn Handling Missing Data in 10 Minutes](https://neuronize.dev/learn-handling-missing-data-in-10-minutes)
- - 🚀 [Linear Regression in Machine Learning: A Comprehensive Guide](https://neuronize.dev/linear-regression-in-machine-learning-a-comprehensive-guide)<!-- BLOGPOSTS:END -->
+ - 🌮 [Git and Github : In-Depth Guide](https://neuronize.dev/git-github-in-depth-guide)
+ - 🌮 [Python Variables Explained](https://neuronize.dev/python-variables-explained-memory-mutability-and-more)
+ - 🚀 [Mastering Python Function Arguments](https://neuronize.dev/mastering-python-function-arguments-a-comprehensive-guide)
+ - 🚀 [Quick 20 Minutes Python Primer](https://neuronize.dev/quick-python-primer-master-the-basics-in-20-minutes)
+ - 🚀 [Matplotlib 101](https://neuronize.dev/matplotlib-101-learn-matplotlib-in-10-minutes)<!-- BLOGPOSTS:END -->
+
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Read more of my articles on [neuronize.dev](https://neuronize.dev)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
 **dotslashbit/dotslashbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
