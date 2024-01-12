@@ -7,17 +7,11 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [neuronize.dev](https://neuronize.dev), accumulating over 20k views within just 2 months.
+- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
-### 📙 Articles
-<!-- BLOGPOSTS:START -->
- - 🌮 [A Beginner&#39;s Guide to Statistics in Machine Learning](https://neuronize.dev/a-beginners-guide-to-statistics-in-machine-learning)
- - 🌮 [Probability for machine learning](https://neuronize.dev/probability-for-machine-learning)
- - 🚀 [Learn Linear Algebra For Machine Learning with Python](https://neuronize.dev/learn-linear-algebra-for-machine-learning-with-python)
- - 🚀 [Learn Handling Missing Data in 10 Minutes](https://neuronize.dev/learn-handling-missing-data-in-10-minutes)
- - 🚀 [Linear Regression in Machine Learning: A Comprehensive Guide](https://neuronize.dev/linear-regression-in-machine-learning-a-comprehensive-guide)<!-- BLOGPOSTS:END -->
+
 
 
 ## Tech Stack
@@ -75,7 +69,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [neuronize.dev](https://neuronize.dev)
+- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
